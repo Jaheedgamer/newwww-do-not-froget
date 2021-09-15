@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color:lightcyan;
+}
+.free2 {
+    color:limegreen;
+}
+#change{
+    margin: 50;
+}
+.kbd {
+    height: 50px;
+    width: 40px;
+}
